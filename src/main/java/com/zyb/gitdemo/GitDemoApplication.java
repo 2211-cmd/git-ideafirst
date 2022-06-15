@@ -8,6 +8,7 @@ public class GitDemoApplication {
 
     public static void main(String[] args) {
         System.out.println("\"Hello,git\" = " + "Hello,git");
+        System.out.println("\"Hello,git\" = " + "Hello,git2");
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
