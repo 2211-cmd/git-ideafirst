@@ -11,6 +11,7 @@ public class GitDemoApplication {
         System.out.println("\"Hello,git\" = " + "Hello,git2");
         System.out.println("\"Hello,git\" = " + "Hello,git3");
         System.out.println("\"Hello,git\" = " + "Hello,git4,master");
+        System.out.println("\"Hello,git\" = " + "Hello,github");
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
