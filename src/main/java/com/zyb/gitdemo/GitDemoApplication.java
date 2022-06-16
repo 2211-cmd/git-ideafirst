@@ -14,6 +14,7 @@ public class GitDemoApplication {
         System.out.println("\"Hello,git\" = " + "Hello,github");
         System.out.println("\"Hello,git\" = " + "Hello,github ssh 222222222222222222");
         System.out.println("\"Hello,git\" = " + "Hello,github ssh pull");
+         System.out.println("\"Hello,git\" = " + "Hello,github update");
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
