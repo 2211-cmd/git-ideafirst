@@ -12,7 +12,7 @@ public class GitDemoApplication {
         System.out.println("\"Hello,git\" = " + "Hello,git3");
         System.out.println("\"Hello,git\" = " + "Hello,git4,master");
         System.out.println("\"Hello,git\" = " + "Hello,github");
-        System.out.println("\"Hello,git\" = " + "Hello,github ssh idea");
+        System.out.println("\"Hello,git\" = " + "Hello,github ssh 222222222222222222");
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
